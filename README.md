@@ -28,4 +28,5 @@ It will automatically scrape to yours LMS and it will count the container (div, 
 
 - [Russell James](https://www.facebook.com/ruruonfb)
 
-#### View Count:![Visitor Count](https://profile-counter.glitch.me/R-uru/count.svg)
+#### View Count:
+![Visitor Count](https://profile-counter.glitch.me/R-uru/count.svg)
