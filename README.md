@@ -18,8 +18,8 @@ Notifier for LMS, it will notify you directly on your LMS on the left navigation
 It will automatically scrape to yours LMS and it will count the container (div, tr, thead, tbody of quiz exam, ass., activity.)
 
 #### How to use?
-- [x]  Android: Download [zip (Click me.)](https://www.youtube.com/watch?v=1a1NDCN8Jog&ab_channel=HowTo) file then import it to kiwi using this steps. [How to load on kiwi browser?](https://www.youtube.com/shorts/LboLr5nSjW8)
-- [x]  Desktop: Download [zip (Click me.)](https://www.youtube.com/watch?v=1a1NDCN8Jog&ab_channel=HowTo) then extract it the load it to your desktop. [How to load on my Desktop](https://www.youtube.com/watch?v=oswjtLwCUqg)
+- [x]  Android: Download [zip (Click me.)](https://github.com/R-uru/LMS-Notifier/archive/refs/heads/main.zip) file then import it to kiwi using this steps. [How to load on kiwi browser?](https://www.youtube.com/shorts/LboLr5nSjW8)
+- [x]  Desktop: Download [zip (Click me.)](https://github.com/R-uru/LMS-Notifier/archive/refs/heads/main.zip) then extract it the load it to your desktop. [How to load on my Desktop](https://www.youtube.com/watch?v=oswjtLwCUqg)
 - [ ]  I realy hate ios when it comes to security (so secure)
 ## Screenshots
 
